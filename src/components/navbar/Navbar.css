@@ -1,0 +1,19 @@
+#one{
+
+}
+#deliver{
+    margin-left: 100px;
+}
+.container-fluid{
+    position: relative;
+}
+.navbar-brand{
+    position: absolute;
+    top: 10px;
+    bottom: 10px;
+    left:10px;
+}
+#leftbtn{
+    border-top-right-radius: none;
+    border-bottom-right-radius: none;
+}
